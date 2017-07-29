@@ -1,0 +1,30 @@
+.colorize {
+	color: blue;
+}
+
+.larger {
+	font-size: 40px;
+}
+
+.bordered {
+	border: 5px solid pink;
+}
+
+.rounding {
+	border: 3px solid pink;
+	border-radius: 25px;
+}
+
+#sec1 {
+	font-weight: bold;
+}
+
+#sec3 {
+	font-weight: bold;
+	font-style: italic;
+	
+}
+
+button {
+	display: block;
+}
